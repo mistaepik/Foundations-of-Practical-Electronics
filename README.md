@@ -11,3 +11,4 @@ Technical manual on digital electronics fundamentals. Emphasizes intuition-drive
 Work in progress, DOI provided by Zenodo.
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![DOI](https://zenodo.org/badge/1117977424.svg)](https://doi.org/10.5281/zenodo.17959507)
